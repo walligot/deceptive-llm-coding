@@ -1,6 +1,6 @@
 # Chain-of-Thought Faithfulness in Large Language Models
 
-Group project (Team Red) for UCL MSc *COMP0087: Statistical Natural Language Processing*.  
+Group project (Team Red) for module *COMP0087: Statistical Natural Language Processing*, as part of UCL MSc in *Computational Statistics and Machine Learning*.  
 - Designed Python experiments testing whether LLMs can **hide unapproved tasks** from chain-of-thought monitoring.  
 - Implemented evaluation of coding + maths benchmarks under multiple monitoring conditions.  
 - Gained experience in **LLM safety evaluation, prompt design, and Python automation**.  
